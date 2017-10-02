@@ -38,7 +38,7 @@ public class EquilaterTest {
 	 */
 	@Before
 	public void setUp() throws Exception {
-		equilater(10.0,2.0);
+		equilater = new equilater(10.0,2.0);
 	}
 
 	/**
